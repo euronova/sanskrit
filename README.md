@@ -1,2 +1,2 @@
-# sanskrit-language-tutor
-Desktop tool for learning Sanskrit 
+# sanskrit
+Tools for learning Sanskrit 
